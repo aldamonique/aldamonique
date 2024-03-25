@@ -1,6 +1,6 @@
 ### README
 
-#  Alda Gonçalves
+#  Olá, eu sou Alda Gonçalves 
 
 
 Estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), atualmente cursando o quarto semestre. Pesquisadora em inovação tecnológica no Departamento de Inovação do IFBA. Possui experiência profissional em desenvolvimento de sistemas.
@@ -29,8 +29,8 @@ Estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federa
 
 <div>
 <a href="https://github.com/aldamonique">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldamonique&layout=compact&langs_count=7&theme=gruvbox"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldamonique&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldamonique&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldamonique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 
