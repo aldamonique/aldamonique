@@ -1,10 +1,9 @@
 ### README
 
-#  Olá, eu sou Alda Monique
+#  Olá, eu sou Alda Gonçalves
 
 
-Estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), atualmente cursando o quarto semestre. Pesquisadora em inovação tecnológica no Departamento de Inovação do IFBA. Possui experiência profissional em desenvolvimento de sistemas.
-
+Estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), atualmente cursando o quarto semestre. Possuo experiência profissional em desenvolvimento de sistemas, conhecimento em Java, HTML, CSS, JavaScript e Python. Realizei pesquisas sobre Inovação Tecnológica e propriedade intelectual no Departamento de INovação do IFBA. Apresentei um Resumo Expandido de Relato de Experiências no 1º Simpósio Brasileiro de Ensino, Pesquisa e Extensão em Tecnologia Social (SEPETS), realizado na Universidade Federal do Rio de Janeiro, sobre Tecnologia e Inovação. Atuei enquanto instrutora em Desenvolvimento de Tecnologia no projeto de Empreendedorismo Jovem 4.0, ensinando sobre módulos de tecnologia para estudantes da rede municipal de ensino. Possuo reconhecimento de Jovem Embaixadora EcoWomen – aceleradora onde desenvolvei um projeto de autoria própria relacionando tecnologia, cidades sustentáveis e geotecnologias.
 
 ---
 
@@ -24,7 +23,7 @@ Estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federa
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40" />
+
 
 </p>
 
