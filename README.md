@@ -1,6 +1,6 @@
 ### README
 
-#  Olá, eu sou Alda Gonçalves 
+#  Olá, eu sou Alda Monique
 
 
 Estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), atualmente cursando o quarto semestre. Pesquisadora em inovação tecnológica no Departamento de Inovação do IFBA. Possui experiência profissional em desenvolvimento de sistemas.
