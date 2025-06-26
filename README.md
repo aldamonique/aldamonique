@@ -3,7 +3,7 @@
 #  Olá, eu sou Alda Gonçalves
 
 
-Estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), atualmente cursando o quarto semestre. Possuo experiência profissional em desenvolvimento de sistemas, conhecimento em Java, HTML, CSS, JavaScript e Python. Realizei pesquisas sobre Inovação Tecnológica e propriedade intelectual no Departamento de INovação do IFBA.  Atuei enquanto instrutora em Desenvolvimento de Tecnologia no projeto Empreendedorismo Jovem 4.0, ensinando sobre módulos de tecnologia para estudantes da rede municipal de ensino. 
+Estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA). Possuo experiência profissional em desenvolvimento de sistemas, conhecimento em Java, HTML, CSS, JavaScript e Python. Realizei pesquisas sobre Inovação Tecnológica e propriedade intelectual no Departamento de INovação do IFBA.  Atuei enquanto instrutora em Desenvolvimento de Tecnologia no projeto Empreendedorismo Jovem 4.0, ensinando sobre módulos de tecnologia para estudantes da rede municipal de ensino. 
 
 ---
 
