@@ -1,9 +1,9 @@
-### README
 
+## I am a full-stack developer specialized in **.NET Core**, **ASP.NET MVC**, **Angular**, **JavaScript**, and **AWS**. I excel in database management and building scalable, maintainable software solutions.
 
+Currently, I’m an **intern at IBM**, driving impactful technology projects while sharpening my skills in modern development practices. I’m also actively deepening my expertise in **Machine Learning** and **Artificial Intelligence**.
 
-
----
+I develop software following **agile methodologies** and have a technical background in **Industrial Automation**. Additionally, I have experience delivering technology entrepreneurship training and conducting research in technological innovation.
 
 ### 🧰 Linguagens, frameworks e ferramentas
 
