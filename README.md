@@ -1,5 +1,7 @@
 
-## I am a full-stack developer specialized in **.NET Core**, **ASP.NET MVC**, **Angular**, **JavaScript**, and **AWS**. I excel in database management and building scalable, maintainable software solutions.
+## Hi, I am a Full-stack Developer
+
+I am a full-stack developer specialized in **.NET Core**, **ASP.NET MVC**, **Angular**, **JavaScript**, and **AWS**. I excel in database management and building scalable, maintainable software solutions.
 
 Currently, I’m an **intern at IBM**, driving impactful technology projects while sharpening my skills in modern development practices. I’m also actively deepening my expertise in **Machine Learning** and **Artificial Intelligence**.
 
