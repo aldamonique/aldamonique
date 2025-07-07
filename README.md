@@ -41,7 +41,7 @@ My technical foundation is complemented by a background in Industrial Automation
 
 <div>
 <a href="https://github.com/aldamonique">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldamonique&layout=compact&langs_count=7&theme=flag-india"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldamonique&layout=compact&langs_count=7&theme=flag-india&exclude_repo=INF029-AldaMonique,repo2"/>
 
 
   
