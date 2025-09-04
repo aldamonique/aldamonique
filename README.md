@@ -4,7 +4,7 @@
 
 I am a full-stack developer with hands-on experience in modern technologies including .NET, React, Angular, Node.js, and TypeScript. I specialize in building robust applications using .NET Core and ASP.NET MVC, applying Clean Architecture principles and software development best practices. I’m experienced in working with robust databases like SQL Server and MongoDB to build scalable, maintainable software.
 
-I work with agile methodologies, ensuring efficient collaboration and delivery. Currently, as an intern at IBM, I contribute to impactful projects while expanding my knowledge in Machine Learning, Artificial Intelligence, and cloud platforms such as AWS.
+I work with agile methodologies, ensuring efficient collaboration and delivery. Currently, as full-stack developer at IBM, I contribute to impactful projects while expanding my knowledge in Machine Learning, Artificial Intelligence, and cloud platforms such as AWS.
 
 My technical foundation is complemented by a background in Industrial Automation, and I have experience delivering training in technology entrepreneurship and conducting research in technological innovation.
 
